@@ -1,0 +1,10 @@
+{
+    "amount": "1234.00",
+    "currency": "PHP",
+    "description": "Test Payment",
+    "email": "john.doe@example.com",
+    "mode": 2,
+    "procId": "TESTPROC",
+    "param1": "Test parameter 1",
+    "param2": "Test parameter 2"
+}
